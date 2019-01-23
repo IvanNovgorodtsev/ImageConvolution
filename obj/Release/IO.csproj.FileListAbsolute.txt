@@ -1,0 +1,7 @@
+A:\IT\C#\IO\IO\bin\Release\IO.exe.config
+A:\IT\C#\IO\IO\bin\Release\IO.exe
+A:\IT\C#\IO\IO\bin\Release\IO.pdb
+A:\IT\C#\IO\IO\obj\Release\IO.csprojAssemblyReference.cache
+A:\IT\C#\IO\IO\obj\Release\IO.csproj.CoreCompileInputs.cache
+A:\IT\C#\IO\IO\obj\Release\IO.exe
+A:\IT\C#\IO\IO\obj\Release\IO.pdb
